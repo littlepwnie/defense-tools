@@ -1,4 +1,4 @@
-# defense-tools
+# Defense Tools
 A small collection of tools used for defensive actions, such as scanning for malware and IOC's.
 
 
