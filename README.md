@@ -1,7 +1,7 @@
 # Defense Tools
 A small collection of tools used for defensive actions, such as scanning for malware and IOC's.
 ## Yara_scanner
-A simple malware scanner based on a given yara rules file. Works on python and has been tested
+A simple malware scanner based on a given yara rules file. Works on python 2.7 and has been tested
 on linux machines.
 Usage:
 ```
